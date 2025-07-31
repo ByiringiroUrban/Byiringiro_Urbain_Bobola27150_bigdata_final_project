@@ -93,12 +93,15 @@ An interactive **Power BI dashboard** was created to visualize key insights.
 2. Open `analysis.ipynb` in Jupyter
 3. Run cells sequentially (requires `pandas`, `sklearn`, `matplotlib`, `seaborn`)
 
+   ---
+
+##  Some project screenshoot images 
+
 ![image2](https://github.com/user-attachments/assets/56b78b5f-43ce-4c6c-8315-fa7fd4bec530)
 ![image9](https://github.com/user-attachments/assets/c9dae531-a372-4501-ab4f-5a1f6bf3a2e5)
 ![image8](https://github.com/user-attachments/assets/326d9217-77a7-4eee-8b54-ec01eeada823)
 ![image5](https://github.com/user-attachments/assets/5fd98a78-daf8-41d9-b323-9890f2e11173)
 ![visual4](https://github.com/user-attachments/assets/28cb0575-b7e2-4770-a059-e6e9e2ebdfe0)
-
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
