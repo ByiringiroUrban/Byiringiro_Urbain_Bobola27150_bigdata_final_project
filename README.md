@@ -96,5 +96,6 @@ An interactive **Power BI dashboard** was created to visualize key insights.
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
 
-![image1](https://github.com/user-attachments/assets/3b5b8aee-ea48-4b3e-be9d-ff6c09266dd3)
+---
+![image1](https://github.com/user-attachments/assets/4c6e0015-663d-4b13-9d0e-d51805006f6a)
 
