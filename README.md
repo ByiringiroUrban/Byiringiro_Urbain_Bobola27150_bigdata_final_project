@@ -1,6 +1,6 @@
 # Byiringiro_Urbain_Bobola27150_bigdata_final_project
 
-#  Capstone Project – Education & Health Analytics  
+# Health Analytics  
 **Course:** INSY 8413 | Introduction to Big Data Analytics  
 **University:** Adventist University of Central Africa (AUCA)  
 **Lecturer:** Eric Maniraguha  
@@ -93,9 +93,9 @@ An interactive **Power BI dashboard** was created to visualize key insights.
 2. Open `analysis.ipynb` in Jupyter
 3. Run cells sequentially (requires `pandas`, `sklearn`, `matplotlib`, `seaborn`)
 
+![Alt text](relative/path/to/image.png)
+![image1](https://github.com/user-attachments/assets/e43b73af-1d02-4f36-92f7-b73b7ef447b0)
+
+
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-
----
-![image1](https://github.com/user-attachments/assets/4c6e0015-663d-4b13-9d0e-d51805006f6a)
-
