@@ -47,11 +47,11 @@ This project focuses on **predicting student injuries and dropouts** using histo
 
 ---
 
-## 🛠 Python Analysis (Jupyter)
+##  Python Analysis (Jupyter)
 
 All exploratory data analysis and machine learning was done in Python.
 
-### ✔ Key Steps:
+###  Key Steps:
 - Data Cleaning (handling nulls, types)
 - Descriptive Stats (`df.describe()`)
 - Visual Analysis:
@@ -74,7 +74,7 @@ All exploratory data analysis and machine learning was done in Python.
 
 An interactive **Power BI dashboard** was created to visualize key insights.
 
-### ✔ Dashboard Features:
+###  Dashboard Features:
 - KPIs: Total, Average, Max, Min `Data_value`
 - Line Chart: Trends over `Period`
 - Bar Chart: Injury `Cause` by Severity
