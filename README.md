@@ -1,7 +1,5 @@
 # Byiringiro_Urbain_Bobola27150_bigdata_final_project
 
-# Capstone Project: Student Injury & Dropout Risk Analysis
-
 #  Capstone Project – Education & Health Analytics  
 **Course:** INSY 8413 | Introduction to Big Data Analytics  
 **University:** Adventist University of Central Africa (AUCA)  
@@ -97,3 +95,6 @@ An interactive **Power BI dashboard** was created to visualize key insights.
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+
+![image1](https://github.com/user-attachments/assets/3b5b8aee-ea48-4b3e-be9d-ff6c09266dd3)
+
